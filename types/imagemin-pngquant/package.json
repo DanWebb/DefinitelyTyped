@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "dependencies": {
+    "imagemin": "^6",
+    "@types/imagemin": "^6",
+    "@types/node": "^10"
+  }
+}
